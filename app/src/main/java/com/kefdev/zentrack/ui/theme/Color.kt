@@ -1,0 +1,41 @@
+package com.kefdev.zentrack.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light theme
+val SageGreen = Color(0xFF7C9A8E)
+val EarthSand = Color(0xFFC4A882)
+val ForestGreen = Color(0xFF4A6B5D)
+val WarmBeige = Color(0xFFF8F5F0)
+val WarmWhite = Color(0xFFFDFBF8)
+val OnSageGreen = Color(0xFFFFFFFF)
+val OnEarthSand = Color(0xFF1C1B1A)
+val OnForestGreen = Color(0xFFFFFFFF)
+val SageGreenContainer = Color(0xFFCDE8DF)
+val EarthSandContainer = Color(0xFFF3E6D5)
+val ForestGreenContainer = Color(0xFFB8D5CB)
+val OnSageGreenContainer = Color(0xFF0D2E24)
+val OnEarthSandContainer = Color(0xFF2C1F0E)
+val OnForestGreenContainer = Color(0xFF05201A)
+val LightOutline = Color(0xFFB0A89E)
+val LightSurfaceVariant = Color(0xFFEDE8E2)
+val OnLightSurfaceVariant = Color(0xFF4E4741)
+
+// Dark theme
+val SageGreenDark = Color(0xFF9EC4B7)
+val EarthSandDark = Color(0xFFD9BF9B)
+val ForestGreenDark = Color(0xFF8CB8A9)
+val DarkBackground = Color(0xFF191C1A)
+val DarkSurface = Color(0xFF191C1A)
+val OnSageGreenDark = Color(0xFF0D3529)
+val OnEarthSandDark = Color(0xFF1F1108)
+val OnForestGreenDark = Color(0xFF00201A)
+val SageGreenContainerDark = Color(0xFF2D5047)
+val EarthSandContainerDark = Color(0xFF4A3420)
+val ForestGreenContainerDark = Color(0xFF174B3E)
+val OnSageGreenContainerDark = Color(0xFFCDE8DF)
+val OnEarthSandContainerDark = Color(0xFFF3E6D5)
+val OnForestGreenContainerDark = Color(0xFFB8D5CB)
+val DarkOutline = Color(0xFF8F8880)
+val DarkSurfaceVariant = Color(0xFF3E3731)
+val OnDarkSurfaceVariant = Color(0xFFD0C8C1)

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/c/Users/kevin/AndroidStudioProjects/**)",
+      "Bash(./gradlew assembleDebug)",
+      "Bash(./gradlew test:*)",
+      "Bash(./gradlew lint:*)",
+      "Bash(python3 -c \":*)"
+    ]
+  }
+}
